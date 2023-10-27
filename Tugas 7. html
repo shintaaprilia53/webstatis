@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>Kidzania Jakarta</title>
+    <link rel="Icon" type="images/x-icon" href="pic/lg2.png">
+    <script src="https://kit.fontawesome.com/8693e748c0.js" crossorigin="anonymous"></script>
+</head>
+
+<!--sumbernya-->
+ <!--dari awal body sampai akhir menggunakan div atau css box model dan setiap pergantian penjelasan menggunakan css outline di setiap judul pergantian-->
+ <!--Karena css text dan font, pakai yang sesuai aja-->
+
+</style>
+<img src="pic/lg2.png" style="height: 120px; width: 120px; margin-left: 50%; margin-right: 50%; margin-top: 2px; margin-bottom: 1px;">
+
+
+  <div class="back"> 
+  <h1 id="A">
+    KidZania Jakarta
+    </div>
+  </h1>
+  </div>
+  <!--Konsep-->
+
+  <h3 id="B"> Konsep KidZania </h3>
+   <p> KidZania Jakarta adalah sebuah theme park atau ’kota’-nya anak-anak yang mengedepankan unsur pendidikan dan hiburan (edutainment) yang pertama di Asia Tenggara bagi anak-anak usia 2-16 tahun.
+Dirancang dan dibangun khusus menyerupai replika sebuah kota yang sesungguhnya namun dalam skala anak-anak, lengkap dengan jalan raya, fasilitas kota seperti rumah sakit, supermarket, salon, theater, pabrik-pabrik dan masih banyak lagi.
+Di kota ini anak-anak bisa memainkan peran atau profesi orang dewasa, seperti menjadi dokter, pilot, polisi, juru masak, ilmuwan dan lebih dari 100 profesi lainnya. 
+Saat ini telah beroperasi 22 KidZania yang tersebar di 18 negara antara lain: Mexico (Santa Fe, Monterrey, Cuicuilco), Jepang (Tokyo dan Koshien), Indonesia (Jakarta), Portugal (Lisbon), Uni Emirat Arab (Dubai), Korea Selatan (Seoul dan Busan), Malaysia (Kuala Lumpur), Chile (Santiago), Thailand (Bangkok), India (Mumbai), Kuwait (Kuwait City), Filipina (Manila), Mesir (Kairo), Turki (Istanbul), Arab Saudi (Jeddah), Brazil (Sao Paulo), Singapore, dan Inggris (London).
+    </p>
+
+    <!--menjelaskan tentang sejarah--> 
+  <h3 id="B"> Sejarah KidZania</h3>
+<p>
+    KidZania pertama kali didirikan pada tanggal 1 September 1999 di Santa Fe di Mexico City. Di hari-hari pertama dibukanya KidZania, anak-anak langsung menyambut gembira datangnya sebuah “kota anak-anak” ini dan langsung membanjiri “Kota” ini. Lokasi kedua dibuka di Monterrey, Mexico di tahun 2006.
+Setelah dibuka KidZania di Tokyo, Jepang pada bulan Oktober 2006. Akhirnya KidZania tiba di Indonesia dan diresmikan pada tanggal 24 November 2007. Setelah itu anak-anak dari seluruh bagian di Indonesia langsung membanjiri “Kota” ini setiap hari untuk mewujudkan keinginan mereka di lingkungan yang aman dan interaktif untuk menciptakan dunia ideal bagi anak-anak di seluruh dunia.
+
+<!--menjelaskan tentang aktivitas--> <!--karena ini perpoint jadi jangan lupa pakai css list dan dilengkapi dengan css box-->
+  <h3 id="B"> Aktivitas di KidZania</h3>
+  <p class="parback2"> 1. AVIATION ACADEMY 
+    <br> (Menjadi Tim Penerbang Terbaik!)
+    </p>
+    <img src="pic/ac.jpg" alt="Aviation" height="100" width="100" class="image">
+    <br>
+<div id="C">
+<p> Peran:
+<ol class="a"> 
+<li>Pilot</li>
+<li>Awak K////abin</li>
+<li>Petugas Check-in Counter</li>
+<li>Penumpang</li>
+</ol>
+</p>
+<p>
+Deskripsi Aktivitas :
+<br>
+Sekolah penerbangan memberikan pendidikan dan pengalaman untuk pengunjung tentang tugas-tugas seorang pilot, awak kabin, dan petugas pra-penerbangan. Pengunjung akan mendapatkan penjelasan seperti cara menerbangkan pesawat untuk peran pilot, melakukan pelayan makanan, hingga mendemonstrasikan instruksi keselamatan untuk peran awak kabin, dan sistem pelayanan pra-penerbangan untuk peran petugas check-in counter.
+</p>
+</div>
+
+<br>
+<p class="parback2"> 2. COURT HOUSE
+    <br> (Keadilan bagi semua warga KidZania)
+    </p>
+    <img src="pic/ch.jpg" alt="court" height="100" width="100" class="image">
+    <br>
+<div id="C">
+<p> Peran:
+<ol class="a"> 
+<li>Hakim</li>
+<li>Jaksa</li>
+<li>Pengacara</li>
+<li>Terdakwa</li>
+<li>Saksi</li>
+<li>Klien</li>
+<li>Panitera</li>
+<li>Hadirin / Penonton</li>
+</ol>
+</p>
+<p>
+Deskripsi Aktivitas :
+<br>
+Berperan sebagai petugas penegak hukum dan belajar menegakkan kebenaran dan keadilan agar seluruh warga Kota KidZania hidup aman dan tenang.
+</p>
+</div>
+
+<br>
+<p class="parback2"> 3. BEAUTY SALON
+    <br> (Cantiknya di seluruh KidZania)
+    </p>
+    <img src="pic/bs.webp" alt="beauty" height="100" width="100" class="image">
+    <br>
+<div id="C">
+<p> Peran:
+<ol class="a"> 
+<li>Ahli Kecantikan</li>
+<li>Penata Rambut</li>
+<li>Pelanggan</li>
+</ol>
+</p>
+<p>
+Deskripsi Aktivitas :
+<br>
+Jika ingin menikmati waktu santai memanjakan diri, Kurlz Beauty Salon lah tempatnya. Sebagai Pelanggan akan menikmati tata rambut istimewa dari Penata Rambut profesional. Jika bekerja sebagai seorang Ahli Kecantikan, kamu akan berkesempatan membantu Pelanggan merias wajahnya dan menjadi semakin cantik sesudahnya.
+</p>
+</div>
+
+<br>
+<p class="parback2"> 4. RADIO STATION
+    <br> (Jadilah suara di KidZania)
+    </p>
+    <img src="pic/rs.jpg" alt="Radio" height="100" width="100" class="image">
+    <br>
+<div id="C">
+<p> Peran:
+<ol class="a"> 
+<li>Penyiar Radio</li>
+</ol>
+</p>
+<p>
+Deskripsi Aktivitas :
+<br>
+Stasiun radio menghadirkan hiburan untuk kota dan juga menjadi titik point untuk menmberikan informasi dan acara kepada para pengunjung. Radio tetap menjadi sumber terpenting untuk media, budaya, dan dunia hiburan.
+</p>
+</div>
+
+<br>
+<p class="parback2"> 5. DENTAL CLINIC
+    <br> (Gigi sehat, senyum bahagia)
+    </p>
+    <img src="pic/dc.jpg" alt="dental" height="100" width="100" class="image">
+    <br>
+<div id="C">
+<p> Peran:
+<ol class="a"> 
+<li>Dokter Gigi</li>
+</ol>
+</p>
+<p>
+Deskripsi Aktivitas :
+<br>
+Siapkah untuk memberikan pasienmu senyum terindahnya? Jadilah Dokter Gigi dan belajar bagaimana mengecek kesehatan mulut, melakukan diagnosa dan merawat gigi berlubang.
+</p>
+</div>
+
+<p>
+Untuk melihat detail aktivitas lainnya di KidZania Jakarta silakan <a href="https://jakarta.kidzania.com/in-id/activities" >klik disini</a></i>  
+</p>
+
+ <!--menjelaskan tentang perekonomian--> 
+  <h3 id="B"> Perekonomian KidZania</h3>
+ <p>KidZania memiliki ekonominya sendiri, KidZos adalah mata uangnya. Setiap kali mengunjungi Kidzania, kamu akan mendapatkan cek senilai 50 KidZos. Jika sudah tiba di dalam, kamu harus ke bank dan mencairkan uangnya supaya bisa digunakan untuk membeli barang-barang atau jasa seperti: menyewa mobil, ke salon untuk merapikan rambut, atau berbelanja di KidZania Department Store.
+  KidZos tidak dapat diuangkan dengan uang rupiah, jika kamu menghabiskan seluruh KidZos yang kamu punya, atau ingin mendapatkan uang lebih banyak, kamu harus bekerja. Kamu bisa menjadi pemadam kebakaran, dokter gigi, penata rambut, atau pekerja konstruksi, atau masih banyak lagi profesi yang bisa dipilih di puluhan establishment yang ada.
+  Di setiap establishment atau kegiatan, kamu bisa mendapatkan atau membelanjakan KidZos. Misalnya di Stasiun Pemadam Kebakaran, jika hasil pekerjaan kamu baik, kamu berhak mendapatkan imbalan berupa kidZos, lalu di KidZania Department Store, kamu bisa membelanjakan hasil kerja kamu itu. 
+  Bagaimanapun, ada banyak establishment yang bisa kamu kunjungi dan melakukan kedua kegiatan tersebut (mendapat dan membelanjakan), contohnya di rumah sakit. Di sana, kamu bisa jadi dokter untuk mendapatkan kidzos atau menjadi pasien yang perlu perawatan untuk dirawat. Barang-barang dan harga produk bisa berbeda di tiap paviliun atau kegiatan tergantung ramainya paviliun. Jika kamu senang menabung dan memantau penggunaan uang sendiri, kamu bisa buka rekening di bank.
+ </p>
+
+ <!--menjelaskan tentang aksesibilitas--> 
+  <h3 id="B">Aksesibilitas KidZania</h3>
+ <p>Anak-anak adalah pemain utama dan bertanggung jawab untuk mengatur kota KidZania. Ini berarti, semua anak dapat bermain di KidZania Jakarta. Staf terlatih kami akan memberikan dukungan penuh dan bantuan untuk semua pengunjung, termasuk anak-anak dengan kemampuan yang berbeda dan dengan keterbatasan. Jika diperlukan, pendamping  atau orang tua diperbolehkan untuk menemani dan membantu anak-anak dengan kebutuhan khusus dalam melakukan kegiatan. Kami juga ingin membuat kunjungan lebih maksimal dengan memberikan petunjuk kegiatan secara tertulis untuk membantu anak-anak tuna rungu atau memiliki keterbatasan pendengaran dalam melakukan kegiatannya.
+  Jangan khawatir, fasilitas kami secara khusus dilengkapi dengan kursi roda bagi mereka yang membutuhkannya dan lift untuk membawa Anda dari lantai 6 ke mezzanine. Untuk informasi lebih lanjut atau pertanyaan tentang fasilitas, silahkan email info@kidzania.co.id  
+ </p>
+
+<!--menjelaskan tentang harga--> 
+  <h3 id="B">Harga Tiket Masuk KidZania</h3>
+<div id="D">
+<table>
+  <tr>
+    <th>No</th>
+    <th>Paket Kunjungan</th>
+    <th>Harga</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>ONE DAY PASS 
+      <br>Anak (4-16 tahun)</td>
+     <td>Rp335.000</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>ONE DAY PASS 
+      <br> Dewasa (17-59 tahun)</td>
+     <td>Rp285.000</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>HALF DAY PASS 
+      <br>Anak (4-16 tahun)</td>
+     <td>Rp295.000</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>HALF DAY PASS 
+      <br>Dewasa (17-59 tahun)</td>
+     <td>Rp235.000</td>
+  </tr>
+</table>
+</div>
+
+<!--menjelaskan alamat dan jam operasional, menggunakan css icon--> 
+  <h3 id="B">Informasi Umum</h3>
+  <div id="E">
+<h2> <i class="fa-solid fa-location-dot"></i> Alamat </h2> 
+<p>KidZania Jakarta
+<br>Place Mall Lantai 6-601 
+<br>Sudirman Central Business District.
+<br>Jl. Jend. Sudirman Kav. 52-53 
+<br>Jakarta Selatan 12190-Indonesia.
+</p> </div>
+<br>
+<div id="E">
+<h2><i class="fa-solid fa-clock"></i> Jam Buka Operasional</h2> 
+<p> <li>Senin - Minggu : 09.00 s/d 19.00 </li>
+  </p>
+</div>
+
+
+<!--menjelaskan Rute, menggunakan slideshow -->
+  <h3 id="B">Rute ke KidZania Jakarta </h3>
+<div class="slideshow-container">
+  
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 2</div>
+<p>
+  <h2> <p class="parback2">BUS Transjakarta </p> </h2>
+  <ol class="a"> 
+<li>Koridor 1: Naik Transjakarta dari Blok-M dan keluar di halte Polda Metro Jaya (Anda akan melewati 4 halte untuk sampai ke halte Polda Metro Jaya). Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.</li>
+<li>Koridor 2: Naik TransJakarta dari Pulogadung ke Harmoni. Transit di halte Harmoni. Anda harus berganti bus tujuan Blok M (Bis Koridor 1) dan  keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.</li>
+<li>Koridor 3: Naik TransJakarta dari Kalideres ke Harmoni. Transit di halte Harmoni. Anda harus berganti bus tujuan Blok M (Bis Koridor 1) dan  keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.</li>
+<li>Koridor 5: Naik TransJakarta dari Ancol ke Harmoni. Transit di halte Harmoni. Anda harus berganti bus tujuan Blok M (Bis Koridor 1) dan  keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.</li>
+</ol> </p>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 2</div>
+<p>
+  <h2> <p class="parback2">KRL JABODETABEK </p> </h2>
+  <ol class="a"> 
+<li> Dari Bogor:
+<br> Naik kereta komuter dari Bogor jurusan stasiun Sudirman. Berjalan ke stasiun bis TransJakarta Dukuh Atas. Lalu naik bis TransJakarta Korridor 1 tujuan Blok M dan keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.
+</li>
+<li>Dari Bekasi :
+<br> Naik kereta komuter dari Bekasi ke stasiun Manggarai. Ganti kereta jurusan stasiun Sudirman dan keluar di sana. Berjalan ke stasiun bis TransJakarta Dukuh Atas. Lalu naik bis TransJakarta Koridor 1 tujuan Blok M dan keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.
+</li>
+<li> Dari Tangerang :
+<br> Naik kereta komuter dari Tangerang ke stasiun Duri. Ganti kereta jurusan stasiun Sudirman dan keluar di sana. Berjalan ke stasiun bis TransJakarta Dukuh Atas. Lalu naik bis TransJakarta Koridor 1 tujuan Blok M dan keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.
+</li>
+<li> Dari Serpong :
+<br>Naik kereta komuter dari Serpong ke stasiun Tanah Abang. Ganti kereta jurusan stasiun Sudirman dan keluar di sana. Berjalan ke stasiun bis TransJakarta Dukuh Atas. Lalu naik bis TransJakarta Koridor 1 tujuan Blok M dan keluar di halte Polda Metro Jaya. Selanjutnya berjalan kaki sekitar 5 menit ke Pacific Place Mall dan KidZania Jakarta ada di lantai 6.
+</li>
+</ol> </p>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+  
+  
+  <br>
+  
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span> 
+  </div>
+  
+  <script>
+  let slideIndex = 1;
+  showSlides(slideIndex);
+  
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+  
+  function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+  }
+  </script>
+
+<!--menjelaskan infprmasi lainnya-->
+<br>
+  <h3 id="B">Informasi lainnya </h3>
+  <!--menampilkan video youtube Kidzania Jakarta--> 
+  <iframe width="700" height="500" src="https://www.youtube.com/embed/XuC9APweYso?si=wdki5bvK_AIseTAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+  <br><br>
+    <a href="https://www.facebook.com/KidZaniaJakarta">
+    <i class="fab fa-facebook fa-xl"></i> </a>
+    <a href="https://twitter.com/KidZaniaJakarta">
+    <i class="fab fa-x-twitter fa-xl"></i></a>
+    <a href="https://www.instagram.com/kidzaniajakarta/"></a>
+    <i class="fab fa-square-instagram fa-xl"></i>
+    <a href="https://www.youtube.com/user/kidzaniascreen/featured">
+    <i class="fab fa-youtube fa-xl"></i> </a>
+
+<!--Footer-->
+<hr>
+<footer>
+  <div class="footer"> 
+<p class="by">Shinta Aprilia</p>
+<p class="by">11210251000050</p>
+<p class="by">Kelas 5A</p>
+</div>
+</footer>
+</body>
+</html>
